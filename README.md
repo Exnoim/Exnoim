@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
+<h1 align="center">Hi 👋, I'm Exnoim</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
